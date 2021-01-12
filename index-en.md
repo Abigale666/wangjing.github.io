@@ -5,7 +5,7 @@
       <p><b>College of Computer and Information Sciences, Fujian Agriculture and Forestry University</b></p>
       <p><b>Location: No.15 Shangxiadian Road, Cangshan District, Fuzhou City, Fujian Province, China</b></p>
       <p><b>Email: wangjing83638289@126.com (prior);   wangjing83638289@gmail.com </b></p>
-      <p><a href="/index.html">中文版</a>
+      <p> [中文版] (https://abigale666.github.io/wangjing.github.io/)
       <p>
     </td>
     <td width="25%">
