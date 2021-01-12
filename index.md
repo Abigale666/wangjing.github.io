@@ -1,4 +1,3 @@
-## Welcome to GitHub Pages
 <table border="0">
   <tr>
     <td width="75%">
@@ -7,7 +6,7 @@
       <p><b>研究方向：智能计算，特征选择，计算机视觉</b></p>
       <p><b>邮箱：wangjing83638289@126.com</b></p>
       <p><b>地址：福州市仓山区上下店路15号，邮编350002</b></p>
-      <a href="/index-en.html">英文版</a>
+      <a href="/index-en.html">English Version</a>
     </td>
     <td width="25%">
       <img src="/白底.jpg" width="100%">     
