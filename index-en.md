@@ -14,7 +14,7 @@
 </table>
 
 ## Research Interest
-*    I work in the field of intelligent computing, feature selection, deep learning and salient object detection. Currently, I focus on the following research topics:
+I work in the field of intelligent computing, feature selection, deep learning and salient object detection. Currently, I focus on the following research topics:
 - Feature slection for classification on high-dimensional data
 - Multi-objective feature selection
 - Swarm Intelligence for Evolving Deep Neural Networks for salient object detection
