@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>Jing Wang </h1>
+      <p><b>College of Computer and Information Sciences, Fujian Agriculture and Forestry University</b></p>
+      <p><b>Location: No.15 Shangxiadian Road, Cangshan District, Fuzhou City, Fujian Province, China</b></p>
+      <p><b>Email: wangjing83638289@126.com (prior);   wangjing83638289@gmail.com </b></p>
+      <p><b><a href="https://github.com/Abigale666" title="GitHub">[GitHub]</a> <a href="https://orcid.org/0000-0001-8360-5395" title="ORCID">[ORCID]</a> <a href="https://abigale666.github.io/wangjing.github.io/" title="Chinese Version">[Chinese Version]</a></b></p>
+    </td>
+    <td width="25%">
+      <img src="/白底.jpg" width="100%">     
+    </td>
+  </tr>
+</table>
 
-You can use the [editor on GitHub](https://github.com/Abigale666/wangjing.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Research Interest
+I work in the field of intelligent computing, feature selection, deep learning and salient object detection. Currently, I focus on the following research topics:
+- Feature slection for classification on high-dimensional data
+- Multi-objective feature selection
+- Swarm Intelligence for Evolving Deep Neural Networks for salient object detection
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Education
 
-### Markdown
+- 2019.9-Now       M.E. in College of Computer and Information Sciences, Fujian Agriculture and Forestry University. 
+- 2015.9-2019.6    B.E. in College of Computer Science and Technology, Hefei University.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Publications
+### Conferences
+1. Minglin Hong, Xiaolin Li, Jing Wang, Haiyang He, Shiguo Huang. A Hybrid Salient Object Detection with Global Context Awareness[C].IEEE International Conference on Big Data, 2020
+### Journals
+1. Xiaolin Li, Jing Wang, Yuanzi Zhang, Shiguo HUang, Multi-objective monarch butterfly optimization quantitative structure-activity feature selection method with priority of accuracy[J]. Journal of Chinese Mini-Micro Computer Systems: 1-5[2021-01-12] [ &#124;paper &#124;](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CAPJ&dbname=CAPJLAST&filename=XXWX2020123000J&v=vqr7qLa%25mmd2B90dv6eZOXJ3erXDEgdpKad81Pp6USSzlgHXq8Opi0X4WDzmGDmJypBPg).
 
-```markdown
-Syntax highlighted code block
+## Projects
 
-# Header 1
-## Header 2
-### Header 3
+- Intelligent Monitoring and Management system of Monochamus alternatus trap based on IOT
+- Study on the structure and activity of attractant compounds of Monochamus alternatus based on multi-objective QSAR
+- Automatic recognition of Lepidoptera Forest pests based on Ontology
 
-- Bulleted
-- List
+## Awards
 
-1. Numbered
-2. List
+- 2019，Outstanding Graduate Student, Hefei University 
+- 2018，First Prize of "Internet +" College students' Innovation and Entrepreneurship Competition
+- 2017，First Prize of Academic Scholarship, Hefei University
+- 2016，Outstanding Prize of Academic Scholarship, Hefei University
+- 2016，Third Prize of “Foreign Language Teaching and Research Press Cup” English Reading competition, Anhui
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Abigale666/wangjing.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
