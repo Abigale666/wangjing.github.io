@@ -22,7 +22,7 @@
 ## 发表论文
 
 1. Minglin Hong, Xiaolin Li, Jing Wang, Haiyang He, Shiguo Huang. A Hybrid Salient Object Detection with Global Context Awareness[C].IEEE International Conference on Big Data, 2020
-2. 李小林,王静,张元孜,黄世国. 准确度优先的多目标帝王蝶优化定量构效特征选择方法[J]. 小型微型计算机系统:1-5[2021-01-12]  [|paper|] (https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CAPJ&dbname=CAPJLAST&filename=XXWX2020123000J&v=vqr7qLa%25mmd2B90dv6eZOXJ3erXDEgdpKad81Pp6USSzlgHXq8Opi0X4WDzmGDmJypBPg).
+2. 李小林,王静,张元孜,黄世国. 准确度优先的多目标帝王蝶优化定量构效特征选择方法[J]. 小型微型计算机系统:1-5[2021-01-12] [|paper|](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CAPJ&dbname=CAPJLAST&filename=XXWX2020123000J&v=vqr7qLa%25mmd2B90dv6eZOXJ3erXDEgdpKad81Pp6USSzlgHXq8Opi0X4WDzmGDmJypBPg).
 
 ## 参与项目
 
