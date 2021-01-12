@@ -14,38 +14,26 @@
   </tr>
 </table>
 
-You can use the [editor on GitHub](https://github.com/Abigale666/wangjing.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## 教育经历
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- 2019.9-至今 福建农林大学 计算机与信息学院
+- 2015.9-2019.6 合肥学院 计算机科学与技术系
 
-### Markdown
+## 发表论文
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Minglin Hong, Xiaolin Li, Jing Wang, Haiyang He, Shiguo Huang. A Hybrid Salient Object Detection with Global Context Awareness[C].IEEE International Conference on Big Data, 2020
+2. 李小林,王静,张元孜,黄世国. 准确度优先的多目标帝王蝶优化定量构效特征选择方法[J]. 小型微型计算机系统:1-5[2021-01-12]  [|paper|](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CAPJ&dbname=CAPJLAST&filename=XXWX2020123000J&v=vqr7qLa%25mmd2B90dv6eZOXJ3erXDEgdpKad81Pp6USSzlgHXq8Opi0X4WDzmGDmJypBPg).
 
-```markdown
-Syntax highlighted code block
+## 参与项目
 
-# Header 1
+- 基于物联网的松墨天牛诱捕器智能监控管理系统开发
+- 基于多目标QSAR的松褐天牛引诱化合物结构与活性的研究
+- 基于本体的鳞翅目森林害虫自动识别
+
 ## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Abigale666/wangjing.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- 2019，合肥学院“优秀本科毕业生”
+- 2018，安徽省“互联网+”大学生创新创业大赛校“一等奖”
+- 2017，一等学业奖学金
+- 2016，特等学业奖学金
+- 2016,“外研社杯”全国英语阅读大赛（安徽赛区）“三等奖”
