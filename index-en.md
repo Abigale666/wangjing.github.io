@@ -1,12 +1,10 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>Jing Wang</h1>
+      <h1>Jing Wang</h1><a href="https://abigale666.github.io/wangjing.github.io/" title="zhongwenban">中文版</a>
       <p><b>College of Computer and Information Sciences, Fujian Agriculture and Forestry University</b></p>
       <p><b>Location: No.15 Shangxiadian Road, Cangshan District, Fuzhou City, Fujian Province, China</b></p>
       <p><b>Email: wangjing83638289@126.com (prior);   wangjing83638289@gmail.com </b></p>
-      <p> <a href="https://abigale666.github.io/wangjing.github.io/" title="zhongwenban">中文版</a>
-      <p>
     </td>
     <td width="25%">
       <img src="/白底.jpg" width="100%">     
