@@ -6,7 +6,7 @@
       <p><b>研究方向：智能计算，特征选择，计算机视觉</b></p>
       <p><b>邮箱：wangjing83638289@126.com</b></p>
       <p><b>地址：福州市仓山区上下店路15号，邮编350002</b></p>
-      <p><b><a href="https://github.com/Abigale666" title="GitHub">[GitHub]</a> <a href="https://orcid.org/0000-0001-8360-5395" title="ORCID">[ORCID]</a> <a href="/index-en.html">English Version</a></b></p>
+      <p><b><a href="https://github.com/Abigale666" title="GitHub">[GitHub]</a> <a href="https://orcid.org/0000-0001-8360-5395" title="ORCID">[ORCID]</a> <a href="/index-en.html">[English Version]</a></b></p>
     </td>
     <td width="25%">
       <img src="/picture.jpg" width="100%">     
