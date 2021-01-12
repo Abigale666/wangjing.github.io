@@ -8,7 +8,7 @@
       <p><b><a href="https://github.com/Abigale666" title="GitHub">[GitHub]</a> <a href="https://orcid.org/0000-0001-8360-5395" title="ORCID">[ORCID]</a> <a href="https://abigale666.github.io/wangjing.github.io/" title="Chinese Version">[Chinese Version]</a></b></p>
     </td>
     <td width="25%">
-      <img src="/白底.jpg" width="100%">     
+      <img src="/picture.jpg" width="100%">     
     </td>
   </tr>
 </table>
